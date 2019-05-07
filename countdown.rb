@@ -2,7 +2,7 @@
 
 def countdown (seconds)
   while counter < seconds
-   
+   puts 
 end
   
 end
